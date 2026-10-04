@@ -1,0 +1,90 @@
+[
+  {
+    "id": "shizuku-silver",
+    "name": "Shizuku Droplet Ring",
+    "collection": "Shizuku (Droplet)",
+    "metal": "Sterling Silver",
+    "metalKey": "silver",
+    "price": "AUD $145",
+    "description": "A single rounded bead of silver sits on a slim band, like a droplet caught mid-fall. Minimal, wearable, quietly reflective.",
+    "etsyUrl": "https://www.etsy.com/shop/YOUR_SHOP_NAME",
+    "swatch": "#c7cdd1"
+  },
+  {
+    "id": "sazanami-gold",
+    "name": "Sazanami Ripple Band",
+    "collection": "Sazanami (Ripple)",
+    "metal": "9k Gold",
+    "metalKey": "gold",
+    "price": "AUD $420",
+    "description": "Fine concentric ripples are hand-textured across a narrow gold band, catching light the way wind catches water.",
+    "etsyUrl": "https://www.etsy.com/shop/YOUR_SHOP_NAME",
+    "swatch": "#c9a66b"
+  },
+  {
+    "id": "seigaiha-rose",
+    "name": "Seigaiha Wave Signet",
+    "collection": "Seigaiha (Wave)",
+    "metal": "Rose Gold",
+    "metalKey": "rose-gold",
+    "price": "AUD $385",
+    "description": "A low-relief take on the traditional Japanese seigaiha wave pattern, set into a soft rose gold signet face.",
+    "etsyUrl": "https://www.etsy.com/shop/YOUR_SHOP_NAME",
+    "swatch": "#d9a69a"
+  },
+  {
+    "id": "tsuki-titanium",
+    "name": "Tsuki Moonwater Band",
+    "collection": "Tsuki (Moon on Water)",
+    "metal": "Titanium",
+    "metalKey": "titanium",
+    "price": "AUD $165",
+    "description": "A brushed titanium band with a polished channel running through it, like moonlight laid across a dark tide.",
+    "etsyUrl": "https://www.etsy.com/shop/YOUR_SHOP_NAME",
+    "swatch": "#8a9a9c"
+  },
+  {
+    "id": "shio-silver",
+    "name": "Shio Tideline Stacking Ring",
+    "collection": "Shio (Tide)",
+    "metal": "Sterling Silver",
+    "metalKey": "silver",
+    "price": "AUD $95",
+    "description": "A thin, uneven line traces the band like a tideline left in sand. Designed to be stacked two or three at once.",
+    "etsyUrl": "https://www.etsy.com/shop/YOUR_SHOP_NAME",
+    "swatch": "#c7cdd1"
+  },
+  {
+    "id": "sazanami-titanium",
+    "name": "Sazanami Ripple Band, Dark",
+    "collection": "Sazanami (Ripple)",
+    "metal": "Blackened Titanium",
+    "metalKey": "black-titanium",
+    "price": "AUD $195",
+    "description": "The same hand-rippled texture, cast in a deep blackened titanium for a quieter, more shadowed water.",
+    "etsyUrl": "https://www.etsy.com/shop/YOUR_SHOP_NAME",
+    "swatch": "#394042"
+  },
+  {
+    "id": "shizuku-gold",
+    "name": "Shizuku Droplet Ring, Gold",
+    "collection": "Shizuku (Droplet)",
+    "metal": "14k Gold",
+    "metalKey": "gold",
+    "price": "AUD $560",
+    "description": "The droplet form in solid 14k gold — heavier, warmer, built as an everyday piece that ages well.",
+    "etsyUrl": "https://www.etsy.com/shop/YOUR_SHOP_NAME",
+    "swatch": "#c9a66b"
+  },
+  {
+    "id": "seigaiha-silver",
+    "name": "Seigaiha Wave Signet, Silver",
+    "collection": "Seigaiha (Wave)",
+    "metal": "Sterling Silver",
+    "metalKey": "silver",
+    "price": "AUD $175",
+    "description": "The wave signet in sterling silver — a cooler, more understated read of the same pattern.",
+    "etsyUrl": "https://www.etsy.com/shop/YOUR_SHOP_NAME",
+    "swatch": "#c7cdd1"
+  }
+]

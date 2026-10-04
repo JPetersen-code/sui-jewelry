@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shop — Sui Jewelry</title>
+  <meta name="description" content="Browse the full Sui Jewelry collection — water-inspired rings in sterling silver, gold, rose gold and titanium. Made in Sydney, available via our Etsy store.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container nav">
+      <a href="index.html" class="brand"><span class="kanji">水</span> Sui Jewelry</a>
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="shop.html" class="active">Shop</a>
+        <a href="about.html">About</a>
+        <a href="care.html">Care &amp; FAQ</a>
+        <a href="contact.html">Contact</a>
+        <a href="https://www.etsy.com/shop/YOUR_SHOP_NAME" target="_blank" rel="noopener" class="nav-cta">Shop on Etsy</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Toggle menu">☰</button>
+    </div>
+  </header>
+
+  <section class="page-header wave-pattern">
+    <div class="container">
+      <span class="eyebrow" style="color:#a8d8d8;">The Collection</span>
+      <h1>Every current piece, in one place.</h1>
+      <p class="lede" style="color:var(--foam-300);">Filter by metal to find your piece. Every listing opens on our Etsy store, where checkout, sizing options and reviews live.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="filters" data-metal-filters>
+        <button class="filter-btn active" data-metal="all">All Metals</button>
+        <button class="filter-btn" data-metal="silver">Sterling Silver</button>
+        <button class="filter-btn" data-metal="gold">Gold</button>
+        <button class="filter-btn" data-metal="rose-gold">Rose Gold</button>
+        <button class="filter-btn" data-metal="titanium">Titanium</button>
+        <button class="filter-btn" data-metal="black-titanium">Blackened Titanium</button>
+      </div>
+
+      <div class="grid-4" data-shop-grid>
+        <!-- JS-rendered product cards (see js/main.js + data/products.json) -->
+        <p>Loading pieces…</p>
+      </div>
+
+      <div class="note-box">
+        Don't see your size or a finish you want? <a href="contact.html" style="text-decoration:underline;">Get in touch</a> — most pieces can be made to order.
+      </div>
+    </div>
+  </section>
+
+  <section class="newsletter">
+    <div class="container">
+      <div>
+        <h2>Stay close to the water.</h2>
+        <p>New pieces, restocks and the occasional note from the workshop — no spam.</p>
+      </div>
+      <form class="newsletter-form" data-demo-form>
+        <input type="email" placeholder="your@email.com" required aria-label="Email address">
+        <button type="submit" class="btn btn-primary">Subscribe</button>
+      </form>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <h4 style="color:#fff; font-family:var(--font-display); font-size:1.3rem; letter-spacing:0.02em;">水 Sui Jewelry</h4>
+        <p style="max-width:280px;">Water-inspired, Japanese-style rings, handmade in small batches in Sydney, Australia.</p>
+      </div>
+      <div>
+        <h4>Shop</h4>
+        <a href="shop.html">Full Collection</a>
+        <a href="https://www.etsy.com/shop/YOUR_SHOP_NAME" target="_blank" rel="noopener">Etsy Store</a>
+      </div>
+      <div>
+        <h4>Company</h4>
+        <a href="about.html">About</a>
+        <a href="care.html">Care &amp; FAQ</a>
+        <a href="contact.html">Contact</a>
+      </div>
+      <div>
+        <h4>Follow</h4>
+        <a href="#">Instagram</a>
+        <a href="#">Pinterest</a>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <span>© <span data-year></span> Sui Jewelry. Made in Sydney, Australia.</span>
+      <span>ABN placeholder — update before launch</span>
+    </div>
+  </footer>
+
+  <script src="js/main.js" defer></script>
+</body>
+</html>
